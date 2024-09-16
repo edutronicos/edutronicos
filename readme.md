@@ -1,20 +1,21 @@
-<h1 align="left">Hello 👋 Welcome to my profile?</h1>
+<h1 align="left">Hello 👋 Welcome to my profile!<br>:Olá 👋 Bem-vindo ao meu perfil!</h1>
 
 ###
 
-<p align="left">My name is Eduardo and I work with software development, I am currently using the PHP language.</p>
+<p align="left">My name is Eduardo and I work with software development, I am currently using the PHP language.<br>:Meu nome é Eduardo e trabalho com desenvolvimento de software, atualmente utilizo a linguagem PHP.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me : Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently working with PHP.<br>🎯 Goals: Degree in Systems Analysis and Development</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently working with PHP.<br>🎯 Focus: Degree in Systems Analysis and Development</p>
+<p align="left">:✨ Criando bugs desde 2021.<br>:📚 Atualmente trabalho com PHP.<br>:🎯 Foco: Graduação em Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
-<h2 align="left">I have participated in projects using the following tools and languages.</h2>
+<h2 align="left">I have participated in projects using the following tools and languages.<br>:Participei de projetos utilizando as seguintes ferramentas e linguagens.</h2>
 
 ###
 
@@ -38,6 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40" />
+  <img width="30" />
 </div>
 
 ###
