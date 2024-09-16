@@ -44,6 +44,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40" />
   <img width="20" />
+  <img src="https://adiantiframework.com.br/assets/images/logo.svg" height="40" />
 </div>
 
 ###
